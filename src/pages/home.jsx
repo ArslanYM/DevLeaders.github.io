@@ -1,6 +1,13 @@
-import React from "react";
+import { Header } from "../components/Header";
 import { DevCard } from "../components/devCard";
+import { Footer } from "../components/Footer";
 
 export const Home = () => {
-  return <DevCard />;
+  return (
+    <>
+      <Header />
+      <DevCard />
+      <Footer />
+    </>
+  );
 };
