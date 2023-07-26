@@ -1,6 +1,14 @@
 import React from "react";
-import { DevCard } from "../components/devCard";
+import { DevCard } from "../Components/DevCard";
+import { Header } from "../Components/Header";
+import { Footer } from "../Components/Footer";
 
 export const Home = () => {
-  return <DevCard />;
+  return (
+    <>
+      <Header />
+      <DevCard />
+      <Footer />
+    </>
+  );
 };
