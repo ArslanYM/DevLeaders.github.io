@@ -10,8 +10,7 @@ export const CreatorsList = () => {
             Our Favorite Creators
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical
-            gentrify, subway tile poke farm-to-table. Franzen you probably
+          In this fast-paced world, we believe that learning should be accessible to everyone, without any cost barriers. Our platform brings together your favorite creators who generously offer their knowledge and expertise through free courses, making learning an enriching and inclusive experience for all. Discover a vast array of free educational content and embark on a journey of continuous growth as you explore various topics, guided by industry experts and passionate educators.
           </p>
         </div>
         <div className="flex flex-wrap -m-2">
