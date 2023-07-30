@@ -23,15 +23,18 @@ export const CreatorsList = () => {
                   <img
                     alt="team"
                     className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4"
-                    src="https://dummyimage.com/80x80"
+                    src={creator.links.imageUrl}
                   />{" "}
                   <div className="flex-grow">
                     {" "}
-                    <h2 className="text-white title-font font-medium">
+                    <a
+                      className="text-white title-font font-medium cursor-pointer "
+                      href="https://www.linkedin.com/in/kunal-kushwaha/?originalSubdomain=uk"
+                    >
                       {" "}
                       {creator.name}
-                    </h2>{" "}
-                    <p className="text-gray-600">UI Designer</p>{" "}
+                    </a>{" "}
+                    <p className="text-gray-600">Content Creator</p>{" "}
                   </div>{" "}
                 </div>
               </div>
@@ -48,6 +51,7 @@ CreatorsList.propTypes = {
     PropTypes.shape({
       name: PropTypes.string.isRequired,
       links: PropTypes.shape({
+        imageUrl: PropTypes.string.isRequired,
         website: PropTypes.string.isRequired,
         youtube: PropTypes.string.isRequired,
         twitter: PropTypes.string.isRequired,
