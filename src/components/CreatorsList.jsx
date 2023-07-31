@@ -10,8 +10,7 @@ export const CreatorsList = () => {
             Our Favorite Creators
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical
-            gentrify, subway tile poke farm-to-table. Franzen you probably
+            Unlock the world of software development with our curated collection of exceptional individuals offering FREE courses and content. Level up your skills and seize your coding destiny today!
           </p>
         </div>
         <div className="flex flex-wrap -m-2">
