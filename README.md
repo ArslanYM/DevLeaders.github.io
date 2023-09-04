@@ -1,9 +1,10 @@
-# Free Courses List
+# List of Free Courses and Content Creators
 
-A collection of free online courses on various topics.
+A collection of free online courses on various topics and top tech creators across the world providing free education for all.
 
 ## Table of Contents
 
+- [Content Creators](#content-creators)
 - [Programming](#programming)
 - [Web Development](#web-development)
 - [Data Science](#data-science)
@@ -15,6 +16,32 @@ A collection of free online courses on various topics.
 - [Miscellaneous](#miscellaneous)
 
 ---
+
+### Content-Creators
+
+- [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): The Net Ninja covers a wide range of web development topics, including HTML, CSS, JavaScript, and popular frameworks like React and Vue.js.
+
+- [Traversy Media (Brad Traversy)](https://www.youtube.com/user/TechGuyWeb): Brad Traversy creates tutorials on web development, including front-end and back-end technologies, as well as various programming languages.
+
+- [Academind (Maximilian Schwarzmüller)](https://www.youtube.com/c/Academind): Maximilian covers topics like Angular, React, Node.js, and other web development technologies in depth.
+
+- [Programming with Mosh (Mosh Hamedani)](https://www.youtube.com/user/programmingwithmosh): Mosh offers free courses on programming and development topics, including C#, Python, JavaScript, and more.
+
+- [The Coding Train (Daniel Shiffman)](https://www.youtube.com/c/TheCodingTrain): Daniel Shiffman focuses on creative coding, p5.js, and other programming-related content, making coding fun and approachable.
+
+- [Codecademy](https://www.youtube.com/user/Codecademy): While not a single YouTuber, Codecademy has a YouTube channel where they provide free coding tutorials and tips on a variety of programming languages and topics.
+
+- [Academind (Jonas Schmedtmann)](https://www.youtube.com/user/jonasschmedtmann): Jonas offers web development courses, particularly focusing on advanced CSS and JavaScript.
+
+- [Academind (Filip Jerga)](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w): Another creator from Academind, Filip covers topics like GraphQL, React Native, and more.
+
+- [Dev Ed (Edwin Diaz)](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q): Dev Ed offers web development tutorials and tips, including HTML, CSS, and JavaScript.
+
+- [Corey Schafer](https://www.youtube.com/user/schafer5): Corey covers Python, Django, and other programming topics, with a focus on practical, real-world examples.
+
+- [Sentdex (Harrison Kinsley)](https://www.youtube.com/user/sentdex): Harrison specializes in Python programming and has a series of tutorials on machine learning and artificial intelligence.
+
+- [DesignCourse (Gary Simon)](https://www.youtube.com/user/DesignCourse): While mainly focused on web design, Gary occasionally delves into front-end development and provides useful tips and tutorials.
 
 ### Programming
 
