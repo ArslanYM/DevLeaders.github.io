@@ -5,6 +5,7 @@ A collection of free online courses on various topics and top tech creators acro
 ## Table of Contents
 
 - [Content Creators](#content-creators)
+- [Content Creators from India](#content-creators-from-india)
 - [Programming](#programming)
 - [Web Development](#web-development)
 - [Data Science](#data-science)
@@ -45,39 +46,16 @@ A collection of free online courses on various topics and top tech creators acro
 
 ### Content-Creators from India
 
-- [CodeWithChris](https://www.youtube.com/user/CodeWithChris): CodeWithChris offers tutorials on iOS app development using Swift and Xcode.
+- [Harkirat Singh](https://www.youtube.com/@harkirat1/):
+  Harkirat offers comprehensive guidance in the MERN (MongoDB, Express.js, React, Node.js) stack, providing structured roadmaps, hands-on tutorials, and actively contributing to open source projects within the MERN ecosystem.
+
+- [Kunal Kushwaha](https://www.youtube.com/@KunalKushwaha): Kunal provides a variety of programming tutorials, including DevOps, DSA, and Kubernetes
 
 - [CodeWithHarry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww): Harry provides a variety of programming tutorials, including Python, Django, and web development.
 
-- [MyCodeSchool](https://www.youtube.com/user/mycodeschool): MyCodeSchool focuses on data structures and algorithms, making it a great resource for computer science students.
-
-- [Telusko](https://www.youtube.com/user/javaboynavin): Navin Reddy (Telusko) covers a wide range of programming topics, including Java, Python, and web development.
-
-- [edureka!](https://www.youtube.com/user/edurekaIN): Edureka offers tutorials on a variety of technology topics, including Java, Python, and cloud computing.
-
-- [Code Basics](https://www.youtube.com/channel/UCLd6gJKbIq4ZzB5cRnB1gKw): Code Basics provides tutorials on Python, data science, and machine learning.
-
-- [Simplilearn](https://www.youtube.com/user/Simplilearn): Simplilearn provides a range of tutorials on IT and software development courses.
-
-- [Code Mania](https://www.youtube.com/c/CodeMania): Code Mania focuses on web development tutorials, including HTML, CSS, JavaScript, and popular frameworks.
-
-- [Geeky Shows](https://www.youtube.com/c/GeekyShows): Geeky Shows offers tutorials on web development, programming languages, and software development.
-
-- [Kudvenkat](https://www.youtube.com/user/kudvenkat): Kudvenkat provides tutorials on .NET technologies, C#, SQL, and more.
-
 - [Apna College](https://www.youtube.com/c/apnacollege): Apna College offers free tutorials on web development, DSA, and various programming languages.
 
-- [The Codeholic](https://www.youtube.com/c/TheCodeholic): The Codeholic covers web development and programming tutorials, including React and Node.js.
-
-- [Code Along](https://www.youtube.com/c/codealong): Code Along provides tutorials on web development, Python, and other tech topics.
-
 - [Love Babbar](https://www.youtube.com/c/LoveBabbar1): Love Babbar offers DSA tutorials and competitive programming resources.
-
-- [CodeZen](https://www.youtube.com/c/CodeZen): CodeZen provides tutorials on web development, Python, and data science.
-
-- [Anuj Bhaiya](https://www.youtube.com/user/AnujShankhwar): Anuj Bhaiya offers DSA tutorials and coding interview preparation.
-
-Please note that the availability and content of these YouTube channels may have changed since my last update in September 2021. Be sure to check their channels for the most up-to-date content and courses.
 
 ## Free Courses Online
 
